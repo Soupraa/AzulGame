@@ -21,15 +21,9 @@ std::string Menu::displayMainMenu(){
 std::string Menu::displayStudentInfo(){
     std::string displayStudentInfo = "";
     displayStudentInfo  += "\n----------------------------------\n";
-    displayStudentInfo  += "Ben Cracknell\n" ;
-    displayStudentInfo  += "Student ID: s3659429\n";
-    displayStudentInfo  += "Email: s3659429@student.rmit.edu.au\n\n";
     displayStudentInfo  += "Richard Gao\n";
     displayStudentInfo  += "Student ID: s3784324\n";
     displayStudentInfo  += "Email: s3784324@student.rmit.edu.au\n\n";
-    displayStudentInfo  += "Xuan Ye\n";
-    displayStudentInfo  += "Student ID: s3586968\n";
-    displayStudentInfo  += "Email: s3586968@student.rmit.edu.au\n";
     displayStudentInfo  += "-------------------------------------\n";
 
     return displayStudentInfo;
