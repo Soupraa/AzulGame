@@ -1,0 +1,72 @@
+# amount of Players
+3
+# tile bag
+ULYUUBUBBULRLUYLUUBRYYYBLBUBRBUYRRULLRRLYYRUBUYBLYYUBYLYLRBU
+# lid
+URRBRYLBYL
+# Factories amount
+7
+# Factories
+F
+F
+LYRR
+LYRR
+UUBY
+LBBU
+BYRL
+# random number seed
+123
+# Player 1 Name
+playerone
+# Player 1 Score
+0
+# Player 1 Triangle
+    .
+   ..
+  .LL
+ ..RR
+.....
+# Player 1 Mosaic
+.....
+.B...
+.....
+.....
+.....
+# Player 1 Floor/brokenTiles
+ 
+# Player 2 Name
+playertwo
+# Player 2 Score
+2
+# Player 2 Triangle
+    .
+   .L
+  ...
+ ....
+.....
+# Player 2 Mosaic
+B....
+.....
+....R
+.....
+.....
+# Player 2 Floor/brokenTiles
+ 
+# Player 3 Name
+playerthree
+# Player 3 Score
+1
+# Player 3 Triangle
+    .
+   ..
+  ...
+ ....
+.....
+# Player 3 Mosaic
+.Y...
+....U
+.....
+.....
+.....
+# Player 3 Floor/brokenTiles
+ 
